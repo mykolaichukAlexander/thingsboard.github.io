@@ -1,0 +1,4 @@
+- Kubernetes 1.12+
+- Helm 3+
+- PV provisioner support in the underlying infrastructure
+- License Key - if you plan to use Thingsboard PE

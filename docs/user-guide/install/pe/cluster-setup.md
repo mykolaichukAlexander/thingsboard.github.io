@@ -44,6 +44,15 @@ redirect_from: "/docs/pe/user-guide/install/cluster-setup/"
                                             </span>
                                         </a>
                                     </div>
+                                    <div class="deployment-card-block">
+                                        <a href="/docs/user-guide/install/pe/cluster/helm-cluster-setup/">
+                                            <span>
+                                                <div class="deployment-logo">
+                                                    <img width="" src="/images/install/cluster/helm.svg" title="Helm" alt="Helm">
+                                                 </div>
+                                            </span>
+                                        </a>
+                                    </div>
                                </div>
                             </div>
                         </div>

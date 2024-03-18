@@ -53,6 +53,15 @@ description: ThingsBoard IoT platform cluster setup guide
                                             </span>
                                         </a>
                                     </div>
+                                    <div class="deployment-card-block">
+                                        <a href="/docs/user-guide/install/cluster/helm-cluster-setup/">
+                                            <span>
+                                                <div class="deployment-logo">
+                                                    <img width="" src="/images/install/cluster/helm.svg" title="Helm" alt="Helm">
+                                                 </div>
+                                            </span>
+                                        </a>
+                                    </div>
                                </div>
                             </div>
                         </div>
